@@ -1,0 +1,6 @@
+{
+  "name": "Baikal Sound System",
+  "description": "Прокат профессионального звукового и светового оборудования на Байкале. Аренда звука для мероприятий, свадеб, корпоративов и концертов с доставкой и настройкой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
